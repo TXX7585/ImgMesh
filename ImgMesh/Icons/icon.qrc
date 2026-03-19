@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>back.png</file>
+	<file>iso.png</file>
+    <file>bottom.png</file>
+	<file>ImgMesh.png</file>
+	<file>edit.png</file>
+	<file>front.png</file>
+	<file>image.png</file>
+	<file>left.png</file>
+	<file>right.png</file>
+	<file>set.png</file>
+	<file>slider.png</file>
+	<file>tetra.png</file>
+	<file>tri.png</file>
+	<file>top.png</file>
+	<file>pointcloud.png</file>
+  </qresource>
+</RCC>
